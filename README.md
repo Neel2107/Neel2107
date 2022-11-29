@@ -13,7 +13,7 @@
 - ❓ Ask me about anything related to Machine Learning, JavaScript and related technologies  
   
 
-- ⚡ Fun fact: I am bad Singer.  
+- ⚡ Fun fact: I am a bad Singer.  
   
 
 <br/>  
