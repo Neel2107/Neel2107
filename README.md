@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React JS and Machine Learning.  
   
 
-- ❓ Ask me about anything related to Machine Learning, JavaScript and related technologies  
+- ❓ Ask me about anything related to Machine Learning, JavaScript and related technologies.
   
 
 - ⚡ Fun fact: I am a bad Singer.  
