@@ -4,7 +4,7 @@
 ### <div align="center">I'm Neel, a Full-Time Front-end Developer 👨‍💻 and Python Programmer🚀</div>  
   
 
-- 🔭 I’m currently working on E-commerce Website.  
+- 🔭 I’m currently working on Bank Application.  
   
 
 - 🌱 I’m currently learning React JS and Machine Learning.  
