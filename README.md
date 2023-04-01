@@ -4,16 +4,16 @@
 ### <div align="center">I'm Neel, a Full-Time Front-end Developer 👨‍💻 and Python Programmer🚀</div>  
   
 
-- 🔭 I’m currently working on E-commerce Website.  
+- 🔭 I’m currently working on portfolio Website.  
   
 
 - 🌱 I’m currently learning React JS and Machine Learning.  
   
 
-- ❓ Ask me about anything related to Machine Learning, JavaScript and related technologies.
+- ❓ Ask me about anything related to React JS, Next JS, Machine Learning, JavaScript and related technologies.
   
 
-- ⚡ Fun fact: I am a bad Singer.  
+- ⚡ Fun fact: I sleep a lot.  
   
 
 <br/>  
