@@ -1,7 +1,7 @@
  
   
 
-### <div align="center">I'm Neel, a Full-Time Front-end Developer 👨‍💻 and Python Programmer🚀</div>  
+### <div align="center">I'm Neel, a Full-Time Front-end Developer🚀</div>  
   
 
 - 🔭 I’m currently working on portfolio Website.  
